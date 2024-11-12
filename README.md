@@ -8,7 +8,6 @@ This project is a 3D wireframe renderer that visualizes 2D height maps in an iso
 - [Installation](#installation)
 - [How to Use](#how-to-use)
 - [Features](#features)
-- [Controls](#controls)
 - [Understanding Isometric Projection](#understanding-isometric-projection)
 - [Author](#author)
 
