@@ -1,5 +1,7 @@
 # FdF 🌐
 
+![Preview](img/t2.png)
+
 This project is a 3D wireframe renderer that visualizes 2D height maps in an isometric view. Built from scratch in C, **FdF** provides an interactive experience that brings flat maps to life through projection and basic transformations.
 
 ## Contents
